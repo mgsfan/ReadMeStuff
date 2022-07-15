@@ -18,9 +18,7 @@ Dear <ins>ReadMe</ins>,
 
 &emsp; I wish that I'd had API documentation like <ins>ReadMe</ins>'s  for as long as I've been working in the tech sector.  I've used Swagger API documentation before.  For lack of a better term, it was just awful.  Sure, it was easy to set up and to add new API entries to it.  But, it was *ugly to look at*, *clunky to use*, and *generally treated as an afterthought*.  The way that <ins>ReadMe</ins> approaches documentation, is how I wish documentation looked everywhere.
 
-&emsp; Now, I'm hooked and I want to help how ever I can to make <ins>ReadMe</ins> even better, so <ins>ReadMe</ins> ends up everywhere.  From the [Full Stack Engineer Markdown Specialist](https://www.linkedin.com/jobs/view/3159503882/?refId=fe55bf7d-373d-4217-a960-24fd18b080c1) description, it sounds like **Kelly is a React wizard**.  However, all of my web development experience is in **Angular**.  
-
-I look forward to speaking with **Kelly** or **Rafe** or whoever at <ins>ReadMe</ins> about _JavaScript_, _documentation_, or maybe _nerd-stuff_.
+&emsp; Now, I'm hooked and I want to help how ever I can to make <ins>ReadMe</ins> even better, so <ins>ReadMe</ins> ends up everywhere.  From the [Full Stack Engineer Markdown Specialist](https://www.linkedin.com/jobs/view/3159503882/?refId=fe55bf7d-373d-4217-a960-24fd18b080c1) description, it sounds like **Kelly is a React wizard**.  However, all of my web development experience is in **Angular**.  Hopefully, that won't be too big of a deal.  I look forward to speaking with **Kelly** or **Rafe** or whoever at <ins>ReadMe</ins> about _JavaScript_, _documentation_, or maybe _nerd-stuff_.
 
 &emsp;Thanks for listening to me **rant** about documentation and **gush** about <ins>ReadMe</ins> for a while.
 
@@ -29,3 +27,5 @@ I look forward to speaking with **Kelly** or **Rafe** or whoever at <ins>ReadMe<
 <img src="./MWJ-sig.png" height=100>
 
 &emsp; Michael Javier
+
+> P.S. This is the **ABSOLUTE MOST FUN** I've ever had applying for a job.  **Thanks!**
