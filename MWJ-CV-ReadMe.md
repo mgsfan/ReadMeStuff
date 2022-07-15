@@ -10,7 +10,7 @@ ___
 
 Dear <ins>ReadMe</ins>, 
 
-&emsp; ==It’s 2022==; things should just work, right?  It seems like I’ve been saying that since I graduated college in 2012, though.  My name is [Michael Javier](https://www.linkedin.com/in/michael-javier-35097a48/), and I'm a growing **full-stack developer** and have long been intrigued about **text editors** and **Markdown**.
+&emsp; **It’s 2022**. Things should just work, right?  It seems like I’ve been saying that since I graduated college in 2012, though.  My name is [Michael Javier](https://www.linkedin.com/in/michael-javier-35097a48/), and I'm a growing **full-stack developer** and have long been intrigued about **text editors** and **Markdown**.
 
 &emsp; Something that I’ve noticed repeatedly over the years while working in the tech industry, is that not only does software **NOT** work like it should, but documentation on how to make it work is either *poor quality*, *out-of-date*, or *non-existent*.  This goes for everything from business requirements, to hiring procedures.  From technical documents, to support tickets. API configuration to training docs.  More often than not, what little documentation there is out there is *dull* or *difficult to skim*.
 
