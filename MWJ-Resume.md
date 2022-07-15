@@ -1,6 +1,5 @@
 # Michael Javier 
-##### 9923 Edelweiss Circle 
-##### Merriam, KS 66203 
+##### 9923 Edelweiss Circle | Merriam, KS 66203 
 ##### (913) 755-8133 | mikejavier82@gmail.com 
 
 ## Summary
