@@ -34,7 +34,7 @@ I look forward to speaking with **Kelly** or **Rafe** or whoever at <ins>ReadMe<
 &emsp; &emsp; Sincerly,
 
 &nbsp;
-![mwj-sig](https://drive.google.com/file/d/12bet-0FjvCEg6oZENMbawDh3NAzh6ODM/view?usp=sharing)
+<img src="./MWJ-sig.png" height=100>
 &nbsp;
 
 &emsp; &emsp; Michael Javier
